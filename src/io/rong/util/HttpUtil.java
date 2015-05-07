@@ -1,4 +1,4 @@
-﻿package io.rong.util;
+package io.rong.util;
 
 import io.rong.models.SdkHttpResult;
 

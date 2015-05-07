@@ -1,10 +1,6 @@
-﻿package io.rong;
+package io.rong;
 
-import io.rong.models.ChatroomInfo;
-import io.rong.models.FormatType;
-import io.rong.models.GroupInfo;
-import io.rong.models.Message;
-import io.rong.models.SdkHttpResult;
+import io.rong.models.*;
 import io.rong.util.HttpUtil;
 
 import java.net.HttpURLConnection;
