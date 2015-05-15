@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=io.rong -DartifactId=server-sdk-java -Dversion=1.0 -Dpackaging=jar -Dfile=server-sdk-java-1.0.jar
